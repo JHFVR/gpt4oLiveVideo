@@ -1,6 +1,8 @@
-streamlit_webrtc
-av
 openai
-opencv-python
-base64
+streamlit-webrtc
+streamlit
+requests
+importlib
+datetime
+opencv-python-headless
 twilio
